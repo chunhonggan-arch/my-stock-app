@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Stock Tracker",
+  "description": "A personal investment portfolio tracker that uses Gemini with Google Search Grounding to fetch up-to-date stock prices (US, MY, SG) and calculate real-time profit/loss.",
+  "requestFramePermissions": []
+}

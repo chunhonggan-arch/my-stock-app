@@ -1,0 +1,15 @@
+{
+  "short_name": "StockTracker",
+  "name": "Gemini Stock Tracker",
+  "icons": [
+    {
+      "src": "https://cdn.lucide.dev/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#f8fafc",
+  "background_color": "#f8fafc"
+}
